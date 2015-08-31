@@ -1,0 +1,15 @@
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\CodeFirstNewDataBase.Sample.exe.config
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\CodeFirstNewDataBase.Sample.exe
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\CodeFirstNewDataBase.Sample.pdb
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\EntityFramework.dll
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\EntityFramework.xml
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.csprojResolveAssemblyReference.cache
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.exe
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.pdb
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.Migrations.InitialCreate.resources
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.csproj.GenerateResource.Cache
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.Migrations.AddUrl.resources
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.Migrations.AddUser.resources
+D:\Projetcs\Learning\MVC\Exmples\CodeFirstNewDataBase.Sample\CodeFirstNewDataBase.Sample\obj\Debug\CodeFirstNewDataBase.Sample.Migrations.ChangeDisplayName.resources
